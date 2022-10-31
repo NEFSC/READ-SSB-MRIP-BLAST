@@ -8,7 +8,7 @@ BLAST inputs:
 
 1.  Annual Length-frequency for cod and haddock. 
 2.  Monthly Catch-per-trip for cod and haddock. 
-3.  Total trips.  We will use FY 2022 data, but will need to figure something out for wave 1-2 of 2023..
+3.  Total trips.  We will use FY 2022 data, but will need to figure something out for wave 1-2 of 2023.
 
 Data cleaning
 	
